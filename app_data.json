@@ -1,6 +1,6 @@
 {
   "wallpapers": [
-    "kuromi/1.jpg",
+    "https://images.unsplash.com/photo-1736665723428-730f1d5823d2",
     "kuromi/2.jpg",
     "kuromi/3.jpg",
     "kuromi/4.jpg",
@@ -43,7 +43,7 @@
     },
     {
       "video": "live_wallpapers/2.mp4",
-      "thumbnail": "live_wallpapers/2.jpg"
+      "https://images.unsplash.com/photo-1736665723428-730f1d5823d2"
     },
     {
       "video": "live_wallpapers/3.mp4",
