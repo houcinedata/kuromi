@@ -1,6 +1,6 @@
 {
   "wallpapers": [
-    "https://images.unsplash.com/photo-1736665723428-730f1d5823d2?q=/1.jpg",
+    "https://images.unsplash.com/photo-1736665723428-730f1d5823d2",
     "kuromi/2.jpg",
     "kuromi/3.jpg",
     "kuromi/4.jpg",
@@ -33,20 +33,20 @@
     "kuromi/31.jpg",
     "kuromi/32.jpg",
     "https://images.unsplash.com/photo-1736665723428-730f1d5823d2",
-    "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg",
-    "kuromi/35.jpg"
+    "https://images.unsplash.com/photo-1668293750324-bd77c1f08ca9",
+    "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
   ],
   "live_wallpapers": [
     {
-      "video": "https://github.com/LegendAsus/kuromi-wallpapers/blob/main/live_wallpapers/1.mp4",
-      "thumbnail": "https://github.com/LegendAsus/kuromi-wallpapers/blob/main/live_wallpapers/1.png"
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/1.png"
     },
     {
-      "video": "live_wallpapers/2.mp4",
-      "thumbnail": "https://images.unsplash.com/photo-1736665723428-730f1d5823d2"
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/2.png"
     },
     {
-      "video": "live_wallpapers/3.mp4",
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/3.mp4",
       "thumbnail": "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
     },
     {
