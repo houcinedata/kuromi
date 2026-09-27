@@ -43,11 +43,11 @@
     },
     {
       "video": "live_wallpapers/2.mp4",
-      "https://images.unsplash.com/photo-1736665723428-730f1d5823d2"
+      "thumbnail": "https://images.unsplash.com/photo-1736665723428-730f1d5823d2"
     },
     {
       "video": "live_wallpapers/3.mp4",
-      "thumbnail": "live_wallpapers/3.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
     },
     {
       "video": "live_wallpapers/4.mp4",
